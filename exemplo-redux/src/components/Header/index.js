@@ -22,9 +22,9 @@ function Header({ cartSize }) {
                 <MdShoppingBasket size={36} color="#FFF" />
             </Cart>
         </Container>
-    )
+    );
 }
 
 export default connect(state => ({
-    cartSize: state.cart.lenght,
+    cartSize: state.cart.length,
 }))(Header);
