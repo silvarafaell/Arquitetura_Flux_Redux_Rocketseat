@@ -25,4 +25,4 @@ function Header({ cartSize }) {
   );
 }
 
-export default connect(state => ({    cartSize: state.cart.length,}))(Header);
+export default connect((state) => ({ cartSize: state.cart.length }))(Header);
