@@ -7,9 +7,10 @@ import api from '../../services/api';
 import { ProductList } from './styles';
 
 class Home extends Component {
-  state = {
-    products: [],
-  };
+  constructor(props) {
+    super(props);
+    this.state = { products: [] };
+  }
 
   async componentDidMount() {
     const response = await api.get('products');
