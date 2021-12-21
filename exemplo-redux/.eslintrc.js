@@ -27,5 +27,7 @@ module.exports = {
       },
     ],
     'import/prefer-default-export': 'off',
+    'jsx-a11y/label-has-for': 'off',
+    'jsx-a11y/control-has-associated-label': 'off',
   },
 };
