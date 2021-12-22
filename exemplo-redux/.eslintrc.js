@@ -30,6 +30,7 @@ module.exports = {
     'jsx-a11y/label-has-for': 'off',
     'jsx-a11y/control-has-associated-label': 'off',
     'no-param-reassign': 'off',
+    'arrow-body-style': 'off',
     'no-console': ['error', { allow: ['tron'] }],
   },
 };
