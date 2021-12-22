@@ -33,4 +33,8 @@ h1 {
 button {
   cursor: pointer;
 }
+
+.bZFZZh {
+    margin-left: 600px;
+}
 `;
