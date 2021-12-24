@@ -32,6 +32,6 @@ module.exports = {
     'no-param-reassign': 'off',
     'arrow-body-style': 'off',
     'import/no-unresolved': 'off',
-    'no-console': ['error', { allow: ['tron'] }],
+    'no-console': ['error', { allow: ['tron', 'log'] }],
   },
 };
