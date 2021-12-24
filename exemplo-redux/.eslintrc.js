@@ -31,6 +31,7 @@ module.exports = {
     'jsx-a11y/control-has-associated-label': 'off',
     'no-param-reassign': 'off',
     'arrow-body-style': 'off',
+    'import/no-unresolved': 'off',
     'no-console': ['error', { allow: ['tron'] }],
   },
 };
