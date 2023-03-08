@@ -1,4 +1,4 @@
-# Arquitetura Flux com Redux na Rocketseat - Construção de uma lova virtual
+# Arquitetura Flux com Redux na Rocketseat - Construção de uma loja virtual
 
 ### Conceitos do Redux
 - Redux - Biblioteca que implementa Arquitetura Flux
